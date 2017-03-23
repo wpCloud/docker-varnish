@@ -1,1 +1,1 @@
-FROM million12/docker-varnish:latest
+FROM million12/varnish:latest
